@@ -156,9 +156,9 @@
             answerAButton.FlatAppearance.BorderSize = 0;
             answerAButton.FlatStyle = FlatStyle.Flat;
             answerAButton.ForeColor = Color.White;
-            answerAButton.Location = new Point(57, 69);
+            answerAButton.Location = new Point(47, 66);
             answerAButton.Name = "answerAButton";
-            answerAButton.Size = new Size(87, 33);
+            answerAButton.Size = new Size(105, 38);
             answerAButton.TabIndex = 3;
             answerAButton.Text = "AnswerA";
             answerAButton.UseVisualStyleBackColor = false;
@@ -182,9 +182,9 @@
             answerBButton.FlatAppearance.BorderSize = 0;
             answerBButton.FlatStyle = FlatStyle.Flat;
             answerBButton.ForeColor = Color.White;
-            answerBButton.Location = new Point(57, 126);
+            answerBButton.Location = new Point(47, 123);
             answerBButton.Name = "answerBButton";
-            answerBButton.Size = new Size(87, 33);
+            answerBButton.Size = new Size(105, 38);
             answerBButton.TabIndex = 4;
             answerBButton.Text = "AnswerB";
             answerBButton.UseVisualStyleBackColor = false;
