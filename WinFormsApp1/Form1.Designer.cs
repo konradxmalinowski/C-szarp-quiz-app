@@ -57,9 +57,9 @@
             label1.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
             label1.Location = new Point(76, 49);
             label1.Name = "label1";
-            label1.Size = new Size(114, 21);
+            label1.Size = new Size(107, 21);
             label1.TabIndex = 0;
-            label1.Text = "Wybierz quiz:";
+            label1.Text = "Choose quiz:";
             // 
             // panel1
             // 
@@ -102,7 +102,7 @@
             itradioButton.AutoSize = true;
             itradioButton.Location = new Point(24, 89);
             itradioButton.Name = "itradioButton";
-            itradioButton.Size = new Size(35, 19);
+            itradioButton.Size = new Size(34, 19);
             itradioButton.TabIndex = 3;
             itradioButton.TabStop = true;
             itradioButton.Text = "IT";
@@ -147,7 +147,7 @@
             questionLabel.Name = "questionLabel";
             questionLabel.Size = new Size(203, 49);
             questionLabel.TabIndex = 2;
-            questionLabel.Text = "Pytanie";
+            questionLabel.Text = "Question";
             questionLabel.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // answerAButton
@@ -196,9 +196,9 @@
             label2.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
             label2.Location = new Point(521, 39);
             label2.Name = "label2";
-            label2.Size = new Size(39, 15);
+            label2.Size = new Size(42, 15);
             label2.TabIndex = 7;
-            label2.Text = "Score";
+            label2.Text = "Score:";
             label2.Click += label2_Click;
             // 
             // scoreLabel
@@ -220,7 +220,7 @@
             closeButton.Name = "closeButton";
             closeButton.Size = new Size(83, 32);
             closeButton.TabIndex = 6;
-            closeButton.Text = "Zakończ";
+            closeButton.Text = "Exit";
             closeButton.UseVisualStyleBackColor = false;
             closeButton.Click += closeButton_Click;
             // 
