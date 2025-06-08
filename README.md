@@ -2,7 +2,7 @@
 
 Welcome to **Quiz App** – a simple and fun quiz application built with Windows Forms (.NET 8)! 🚀
 
-## 🎮 Features
+## Features
 
 - Multiple quiz categories: INF.02, INF.03, INF.04, IT, English, German
 - Randomized questions for each quiz
@@ -10,7 +10,7 @@ Welcome to **Quiz App** – a simple and fun quiz application built with Windows
 - Modern, user-friendly interface
 - No external dependencies
 
-## 🖥️ Getting Started
+## 🖥Getting Started
 
 1. **Clone the repository**
    ```sh
@@ -20,7 +20,7 @@ Welcome to **Quiz App** – a simple and fun quiz application built with Windows
 3. **Build and run**
    - Press `F5` or click **Start** to launch the app.
 
-## 📂 Project Structure
+## Project Structure
 
 - `Form1.cs` – Main quiz logic and UI events
 - `Form1.Designer.cs` – UI layout (auto-generated)
@@ -28,20 +28,27 @@ Welcome to **Quiz App** – a simple and fun quiz application built with Windows
 - `Properties/Resources.resx` – Embedded resources (images, etc.)
 - `score.txt` – Stores your latest score
 
-## 🖱️ Usage
+## 🖱Usage
 
 1. Select a quiz category.
 2. Click **Generate** to start.
 3. Answer questions by clicking the buttons.
 4. Your score is displayed and saved automatically.
 
-## 🧑‍💻 Technologies
+## Technologies
 
 - C#
 - .NET 8.0
 - Windows Forms
 
-## 📜 License
+## Contact
+
+If you have any questions, feel free to contact me:
+
+- Email: [malinowski.konrad45@gmail.com](malinowski.konrad45@gmail.com)
+
+
+## License
 
 ```
 MIT License
