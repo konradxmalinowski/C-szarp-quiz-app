@@ -1,6 +1,6 @@
 # 📝 Quiz App
 
-Welcome to **Quiz App** – a simple and fun quiz application built with Windows Forms (.NET 8)! 🚀
+Welcome to **Quiz App** – a simple and fun quiz application built with Windows Forms (.NET 8)!
 
 ## Features
 
