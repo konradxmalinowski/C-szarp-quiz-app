@@ -10,7 +10,7 @@ Welcome to **Quiz App** – a simple and fun quiz application built with Windows
 - Modern, user-friendly interface
 - No external dependencies
 
-## 🖥Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```sh
@@ -28,7 +28,7 @@ Welcome to **Quiz App** – a simple and fun quiz application built with Windows
 - `Properties/Resources.resx` – Embedded resources (images, etc.)
 - `score.txt` – Stores your latest score
 
-## 🖱Usage
+## Usage
 
 1. Select a quiz category.
 2. Click **Generate** to start.
